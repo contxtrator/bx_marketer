@@ -1,0 +1,26 @@
+title:              "마케터의 기획"
+tagline:            "모든 경험을 설계하는 일"
+email:              "contxtrator@gmail.com"
+description:        "리테일 브랜드 마케팅을 관찰하며 하는 생각들 아카이브"
+author:             "서솔"
+baseurl:            "/"
+url:                "https://contxtrator.com"
+locale:             "ko_KR"
+thumbnail:          "/img/thumbnail.jpg"
+
+# Social Profiles
+instagram_username: sol1222
+
+# Build settings
+markdown:           kramdown
+permalink:          /:title
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+
+# 블로그 disqus shortname
+disqus:
+  shortname: contxtrator
