@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-03-22T23:59:21+09:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">마케터의 기획</title><subtitle>리테일 브랜드 마케팅을 관찰하며 하는 생각들 아카이브</subtitle><author><name>서솔</name></author><entry><title type="html">너는 카페 가면 뭐 봐? (part.1 공간)</title><link href="http://localhost:4000/cafe-bx-1/" rel="alternate" type="text/html" title="너는 카페 가면 뭐 봐? (part.1 공간)" /><published>2020-03-22T17:30:00+09:00</published><updated>2020-03-22T17:30:00+09:00</updated><id>http://localhost:4000/cafe_bx1</id><content type="html" xml:base="http://localhost:4000/cafe-bx-1/">&lt;h2 id=&quot;너는-카페-가면-뭐-봐&quot;&gt;너는 카페 가면 뭐 봐?&lt;/h2&gt;
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>마케터의 기획</title>
+    <description>리테일 브랜드 마케팅을 관찰하며 하는 생각들 아카이브</description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 28 Mar 2020 16:37:31 +0900</pubDate>
+    <lastBuildDate>Sat, 28 Mar 2020 16:37:31 +0900</lastBuildDate>
+    <generator>Jekyll v3.8.6</generator>
+    
+      <item>
+        <title>너는 카페 가면 뭐 봐? (part.3 콘텐츠)</title>
+        <description>&lt;h2 id=&quot;너는-카페-가면-뭐-봐&quot;&gt;너는 카페 가면 뭐 봐?&lt;/h2&gt;
 
 &lt;p&gt;넌 커피회사 다니니까.&lt;/p&gt;
 
@@ -10,41 +23,78 @@
 
 &lt;p&gt;그들이 어떤 생각으로 브랜드, 공간을 만드는지에 대한 이야기이기도 하고 “요즘은 어느 카페가 핫해? 넌 카페 가면 뭐 봐?” 에 대한 답이기도 한 이야기를 썰 풀듯 적어본다.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;커피회사 마케터에게만 보이는 것들&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;hr /&gt;
 
-&lt;p&gt;오프라인에서의 UX, 브랜드 경험설계는 정말이지 노동집약적이다. 공간이란 건 웹이나 앱처럼의 수정이 어려우니까.&lt;br /&gt;잘못된 판단임이 드러나고 수정해야 할 부분이 뻔히 보이는데도 즉시 고쳐나가는 게 어렵다는 소리다.&lt;br /&gt;보기엔 접근이 쉬워보인다는 것도 재밌는 부분이고.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;세번째, 콘텐츠에 대해&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;공간기반임에도 최대한 린Lean하게 접근하는 조직에서 했던 다양한 경험들을 관찰자 시점에서 공간/사람/콘텐츠의 구분으로 나눠서 하나씩 풀어보려고 한다.&lt;/p&gt;
+&lt;p&gt;(&lt;a href=&quot;https://contxtrator.com/2020-03-22-cafe_bx1/&quot;&gt;1편-공간 보러가기&lt;/a&gt;)&lt;br /&gt;(&lt;a href=&quot;https://contxtrator.com/2020-03-22-cafe_bx2/&quot;&gt;2편-사람 보러가기&lt;/a&gt;)&lt;/p&gt;
 
-&lt;p&gt;생각 없이 카페를 즐기기 어려웠지만, 그래서 남들보다 더 재밌게 즐겼던 것들. &lt;br /&gt;손님이 보는 것들과 교집합인 것들도 많고 공급자로서 궁금해서 보이는 것들도 있고.&lt;/p&gt;
+&lt;p&gt;카페에서 말하는 콘텐츠란 뭘까.&lt;/p&gt;
 
-&lt;p&gt;커피집이면 커피만 잘하면 되는 거 아닌가?&lt;br /&gt;아니, 커피는 당연히 잘해야 하는 거고.&lt;/p&gt;
+&lt;p&gt;기본적으로는 제공하는 음료(메뉴)의 종류가 어떤지: 커피에 집중했는지, 그외 다른 음료들에 힘을 줬는지.&lt;br /&gt;디저트에 집중했는지 디저트는 거들뿐인지.&lt;br /&gt;커틀러리나 컵은 어떤걸 쓰는지. 유니폼은 어떤식으로 풀었는지.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;u&gt;먼저, 공간에 대해.&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;취급하는 원두의 종류는 많은지 가격은 어떤지. 직접 로스팅을 하는지 아니라면 어디 원두를 쓰는지.&lt;/p&gt;
 
-&lt;p&gt;바리스타가 일하는 동선은 어떠한지,손님인 내게 어떤 동선을 유도한 건지. 말하자면 UX설계.&lt;br /&gt;바리스타의 동선을 얼마나 배려했는지.&lt;/p&gt;
+&lt;p&gt;주문 프로세스는 어떤지.&lt;br /&gt;	내 선택 범위가 얼마큼 주어지는지. 원두도 고르고 메뉴(아메,라떼)도 골라야 하는지. 그냥 메뉴만 고르면 되는지. &lt;br /&gt;인사를 하고 포스 앞에 서서 주문을 하고 카드로 결제를 하고 영수증과 진동벨(옵션)을 받는다. 사실 몇 초 안 되는 이 과정에 수많은 고민과 설계가 숨어있다. 원두를 여러 가지 제안하면서 우리가 추구하는 커피에 대해서도 알려주고 싶고 뭐가 더 취향에 맞을지 추천도 해주고 싶고, POP가 아닌 다른 방법으로 이벤트나 혜택도 알려주고 싶고.&lt;/p&gt;
 
-&lt;p&gt;나는 직업인의 작업환경, 공간에 배려가 녹은 게 보일 때 사람 냄새를 많이 느끼고, 즐거운 일터라고 느껴지는 브랜드나 회사에 더 마음이 간다.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx2/img5.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx1/attachment3.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;굿즈가 있는지 구성은 어떤지.&lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;바리스타가 일하기 편한 구조인지. 바의 높이나 폭. 수납공간. 음료 제조할 때의 동선 같은 것.&lt;br /&gt; 원두 담아 탬핑하고 추출하고 얼음 푸고 컵에 담아 픽업대에 내놓기까지.&lt;br /&gt;이 가운데 얼마나 오너가 바리스타(오너=바리스타인 곳 있지만)의 작업환경에 신경을 썼는지를 보게 된다.&lt;/p&gt;
+&lt;p&gt;어떤 서사를 가진 공간인지.&lt;br /&gt;인테리어나 브랜딩은 직접했는지 아니라면 어떤팀에게 맡겼는지&lt;br /&gt;공간의 인스타그래머블한 요소에 집중했는지&lt;br /&gt;Bar내부에는 커피를 위한 좋은기계/기구들에 투자했는지 보여지는 퍼포먼스 위주인지.&lt;br /&gt;이젠 기자재도 품질을 위한 콘텐츠가 되곤한다. 기자재는 커버영역이 크니까 여기서는 제외.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx1/attachment1.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;커뮤니티가 있는지&lt;/p&gt;
 
-&lt;p&gt;예를 들어 싱크대의 적절한 위치라던지, 매번 체중을 실어 탬핑할 때 무리가지 않을만한 테이블의 높이라던지.&lt;br /&gt;얼음 소비 많은 매장이라면 제빙기에서 얼음을 매번 푸는 것보다 허리에 무리가 덜 가는 아이스빈이 설치되어있는지 등.&lt;br /&gt;머신이나 식재료들 배치, 수납도 ‘보기 좋음’과 ‘일하기 좋음’의 사이에 잘 조율된 바의 UX를 보면 마음이 편안-해진다. &lt;br /&gt;기능이나 사람은 무시된 채 멋짐만 추구한 공간, 특히 바BAR를 볼 때면 “에이 너무하네, 일하기 힘들겠다. 힘들면 손님 눈에 다 보이는데”하는 생각으로 이어지고. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;브랜드나 핵심멤버를 통한 커뮤니티가 형성되어 있는지&lt;br /&gt;SNS운영이나 홈페이지나 쇼핑몰 운영은 어떤 톤인지.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx1/attachment2.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;실제 브랜드들이 어떤식으로 취사선택하는지 사례위주로 소개한다.(TBD)&lt;/p&gt;
 
-&lt;p&gt;따져보면 다 비용이고 중요도와 우선순위의 견해차겠지만 적어도 일하기 좋은 환경에서 더 맛있는 커피 한잔이 나온다고 믿는다.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;퀜치의 커피자체에 집중된 메뉴판&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;새검정의 오닉스 수입&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;어니언 한옥 공간과 브레드05협업 사례&lt;/li&gt;
+  &lt;li&gt;카페 진정성의 밀크티와 퍼스트 펭귄&lt;/li&gt;
+  &lt;li&gt;마메야 원두선택과 가이드&lt;/li&gt;
+  &lt;li&gt;블루보틀의 커뮤니티&lt;/li&gt;
+  &lt;li&gt;커피슈프림의 슈프림밋츠와 브랜드북 굿즈&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;그다음이 인테리어 측면에서 &lt;br /&gt;공간 구획, 가구나 조도, 여백과 텍스쳐, &lt;br /&gt;콘센트 그리고 좌석 수, 화장실과 향 같은 것 들을 보게 된다.&lt;/p&gt;
+&lt;p&gt;그 외의 콘텐츠,&lt;/p&gt;
 
-&lt;p&gt;좋다 나쁘다는 없고 ‘답게’ 한 것.&lt;br /&gt;일관성 있는 컨셉과 날 선 디테일이 보일 때 멋진 것 같다.&lt;/p&gt;
+&lt;p&gt;내가 덕질하는 커피브랜드인 뉴질랜드의 커피슈프림Coffee supreme. &lt;br /&gt;We eat coffee for breakfast. 이 브랜드의 슬로건을 몸소 실천하곤 한다.&lt;/p&gt;
 
-&lt;p&gt;친해지고 싶은 사람의 취향을 하나하나 파악하듯이&lt;br /&gt;‘나라서 발견했다’라는 즐거움을 주는 디테일이 있을 때 무릎을 탁 치게 되는 것이지.&lt;/p&gt;
+&lt;p&gt;원두는 다양한 경로로 접해서 종종 마셨었고, 대표와 팀을 만나보기도 했지만(글로벌리 느슨하게 연결된 커피커뮤니티의 축복) 재밌게도 매장은 한번도 가본적이 없다 -현재 대부분의 매장 비즈니스는 접었지만…-. 결국 내가 소비한 브랜드이미지는 온통 온라인에서의 콘텐츠들인 것이다. 굿즈, 각종 사진과 이벤트 현장 모습들 클리핑, 연재되는 저널과 sns등. 93년생으로 제법 업력이 된 이 브랜드는 여전히 날 서있고 뾰족하며 쉽게 친근함이 느낀다.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>서솔</name></author><category term="카페" /><category term="리테일" /><category term="공간" /><category term="인테리어" /><summary type="html">너는 카페 가면 뭐 봐?</summary></entry><entry><title type="html">너는 카페 가면 뭐 봐? (part.2 사람)</title><link href="http://localhost:4000/cafe-bx-2/" rel="alternate" type="text/html" title="너는 카페 가면 뭐 봐? (part.2 사람)" /><published>2020-03-22T17:30:00+09:00</published><updated>2020-03-22T17:30:00+09:00</updated><id>http://localhost:4000/cafe_bx2</id><content type="html" xml:base="http://localhost:4000/cafe-bx-2/">&lt;h2 id=&quot;너는-카페-가면-뭐-봐&quot;&gt;너는 카페 가면 뭐 봐?&lt;/h2&gt;
+&lt;p&gt;오프라인 브랜드 경험이란 건 뭘까?&lt;/p&gt;
+
+&lt;p&gt;공급자이자 크리에이터가 어떤 가치를 추구하고 어디에 가장 신경(=돈)을 많이 썼는에 따라 커피맛에 대한 기대치가 높아지기도 낮아지기도 한다. 어떤 카페를 선택해도 똑같이 커피맛은 좋았으면 하고 기대하게 된다. 좋은 커피로 하루를 시작하는 것만큼 포근하고 보장된 행복이 없다.&lt;/p&gt;
+
+&lt;p&gt;공급자적 관점으로 카페에 관심을 두면 커피에 실패할 확률은 줄어든다. &lt;br /&gt;가까이에 친한 바리스타 하나쯤 있으면 좋을 이유다.&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2020 17:30:00 +0900</pubDate>
+        <link>http://localhost:4000//cafe-bx-3/</link>
+        <guid isPermaLink="true">http://localhost:4000//cafe-bx-3/</guid>
+        
+        <category>카페</category>
+        
+        <category>리테일</category>
+        
+        <category>공간</category>
+        
+        <category>인테리어</category>
+        
+        
+        <category>retail-bx</category>
+        
+      </item>
+    
+      <item>
+        <title>너는 카페 가면 뭐 봐? (part.2 사람)</title>
+        <description>&lt;h2 id=&quot;너는-카페-가면-뭐-봐&quot;&gt;너는 카페 가면 뭐 봐?&lt;/h2&gt;
 
 &lt;p&gt;넌 커피회사 다니니까.&lt;/p&gt;
 
@@ -114,7 +164,28 @@
 
 &lt;p&gt;물론 온라인/디지털마케팅에서처럼 즉각적인 수정 반영이나 A/B테스트로 값을 얻어낼 수는 없지만 날카로운 관찰을 통해 쌓은 오프라인에서도 데이터와 포스POS등에 기록되는 결제관련 데이터를 함께 뽑아 분석하겠다 마음만 먹으면 충분히 가능하고, 훨씬 더 풍성한 인사이트를 얻을 수 있다. &lt;br /&gt;게다가 이렇게까지 하는곳이 잘 없기 때문에 더 섬세한 고객경험을 제공할 기회를 찾을 수 있다.&lt;/p&gt;
 
-&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;</content><author><name>서솔</name></author><category term="카페" /><category term="리테일" /><category term="공간" /><category term="인테리어" /><summary type="html">너는 카페 가면 뭐 봐?</summary></entry><entry><title type="html">너는 카페 가면 뭐 봐? (part.3 콘텐츠)</title><link href="http://localhost:4000/cafe-bx-3/" rel="alternate" type="text/html" title="너는 카페 가면 뭐 봐? (part.3 콘텐츠)" /><published>2020-03-22T17:30:00+09:00</published><updated>2020-03-22T17:30:00+09:00</updated><id>http://localhost:4000/cafe_bx3</id><content type="html" xml:base="http://localhost:4000/cafe-bx-3/">&lt;h2 id=&quot;너는-카페-가면-뭐-봐&quot;&gt;너는 카페 가면 뭐 봐?&lt;/h2&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2020 17:30:00 +0900</pubDate>
+        <link>http://localhost:4000//cafe-bx-2/</link>
+        <guid isPermaLink="true">http://localhost:4000//cafe-bx-2/</guid>
+        
+        <category>카페</category>
+        
+        <category>리테일</category>
+        
+        <category>공간</category>
+        
+        <category>인테리어</category>
+        
+        
+        <category>retail-bx</category>
+        
+      </item>
+    
+      <item>
+        <title>너는 카페 가면 뭐 봐? (part.1 공간)</title>
+        <description>&lt;h2 id=&quot;너는-카페-가면-뭐-봐&quot;&gt;너는 카페 가면 뭐 봐?&lt;/h2&gt;
 
 &lt;p&gt;넌 커피회사 다니니까.&lt;/p&gt;
 
@@ -126,54 +197,58 @@
 
 &lt;p&gt;그들이 어떤 생각으로 브랜드, 공간을 만드는지에 대한 이야기이기도 하고 “요즘은 어느 카페가 핫해? 넌 카페 가면 뭐 봐?” 에 대한 답이기도 한 이야기를 썰 풀듯 적어본다.&lt;/p&gt;
 
-&lt;hr /&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;커피회사 마케터에게만 보이는 것들&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;세번째, 콘텐츠에 대해&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;오프라인에서의 UX, 브랜드 경험설계는 정말이지 노동집약적이다. 공간이란 건 웹이나 앱처럼의 수정이 어려우니까.&lt;br /&gt;잘못된 판단임이 드러나고 수정해야 할 부분이 뻔히 보이는데도 즉시 고쳐나가는 게 어렵다는 소리다.&lt;br /&gt;보기엔 접근이 쉬워보인다는 것도 재밌는 부분이고.&lt;/p&gt;
 
-&lt;p&gt;(&lt;a href=&quot;https://contxtrator.com/2020-03-22-cafe_bx1/&quot;&gt;1편-공간 보러가기&lt;/a&gt;)&lt;br /&gt;(&lt;a href=&quot;https://contxtrator.com/2020-03-22-cafe_bx2/&quot;&gt;2편-사람 보러가기&lt;/a&gt;)&lt;/p&gt;
+&lt;p&gt;공간기반임에도 최대한 린Lean하게 접근하는 조직에서 했던 다양한 경험들을 관찰자 시점에서 공간/사람/콘텐츠의 구분으로 나눠서 하나씩 풀어보려고 한다.&lt;/p&gt;
 
-&lt;p&gt;카페에서 말하는 콘텐츠란 뭘까.&lt;/p&gt;
+&lt;p&gt;생각 없이 카페를 즐기기 어려웠지만, 그래서 남들보다 더 재밌게 즐겼던 것들. &lt;br /&gt;손님이 보는 것들과 교집합인 것들도 많고 공급자로서 궁금해서 보이는 것들도 있고.&lt;/p&gt;
 
-&lt;p&gt;기본적으로는 제공하는 음료(메뉴)의 종류가 어떤지: 커피에 집중했는지, 그외 다른 음료들에 힘을 줬는지.&lt;br /&gt;디저트에 집중했는지 디저트는 거들뿐인지.&lt;br /&gt;커틀러리나 컵은 어떤걸 쓰는지. 유니폼은 어떤식으로 풀었는지.&lt;/p&gt;
+&lt;p&gt;커피집이면 커피만 잘하면 되는 거 아닌가?&lt;br /&gt;아니, 커피는 당연히 잘해야 하는 거고.&lt;/p&gt;
 
-&lt;p&gt;취급하는 원두의 종류는 많은지 가격은 어떤지. 직접 로스팅을 하는지 아니라면 어디 원두를 쓰는지.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;u&gt;먼저, 공간에 대해.&lt;/u&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;주문 프로세스는 어떤지.&lt;br /&gt;	내 선택 범위가 얼마큼 주어지는지. 원두도 고르고 메뉴(아메,라떼)도 골라야 하는지. 그냥 메뉴만 고르면 되는지. &lt;br /&gt;인사를 하고 포스 앞에 서서 주문을 하고 카드로 결제를 하고 영수증과 진동벨(옵션)을 받는다. 사실 몇 초 안 되는 이 과정에 수많은 고민과 설계가 숨어있다. 원두를 여러 가지 제안하면서 우리가 추구하는 커피에 대해서도 알려주고 싶고 뭐가 더 취향에 맞을지 추천도 해주고 싶고, POP가 아닌 다른 방법으로 이벤트나 혜택도 알려주고 싶고.&lt;/p&gt;
+&lt;p&gt;바리스타가 일하는 동선은 어떠한지,손님인 내게 어떤 동선을 유도한 건지. 말하자면 UX설계.&lt;br /&gt;바리스타의 동선을 얼마나 배려했는지.&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx2/img5.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;나는 직업인의 작업환경, 공간에 배려가 녹은 게 보일 때 사람 냄새를 많이 느끼고, 즐거운 일터라고 느껴지는 브랜드나 회사에 더 마음이 간다.&lt;/p&gt;
 
-&lt;p&gt;굿즈가 있는지 구성은 어떤지.&lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx1/attachment3.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;어떤 서사를 가진 공간인지.&lt;br /&gt;인테리어나 브랜딩은 직접했는지 아니라면 어떤팀에게 맡겼는지&lt;br /&gt;공간의 인스타그래머블한 요소에 집중했는지&lt;br /&gt;Bar내부에는 커피를 위한 좋은기계/기구들에 투자했는지 보여지는 퍼포먼스 위주인지.&lt;br /&gt;이젠 기자재도 품질을 위한 콘텐츠가 되곤한다. 기자재는 커버영역이 크니까 여기서는 제외.&lt;/p&gt;
+&lt;p&gt;바리스타가 일하기 편한 구조인지. 바의 높이나 폭. 수납공간. 음료 제조할 때의 동선 같은 것.&lt;br /&gt; 원두 담아 탬핑하고 추출하고 얼음 푸고 컵에 담아 픽업대에 내놓기까지.&lt;br /&gt;이 가운데 얼마나 오너가 바리스타(오너=바리스타인 곳 있지만)의 작업환경에 신경을 썼는지를 보게 된다.&lt;/p&gt;
 
-&lt;p&gt;커뮤니티가 있는지&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx1/attachment1.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;브랜드나 핵심멤버를 통한 커뮤니티가 형성되어 있는지&lt;br /&gt;SNS운영이나 홈페이지나 쇼핑몰 운영은 어떤 톤인지.&lt;/p&gt;
+&lt;p&gt;예를 들어 싱크대의 적절한 위치라던지, 매번 체중을 실어 탬핑할 때 무리가지 않을만한 테이블의 높이라던지.&lt;br /&gt;얼음 소비 많은 매장이라면 제빙기에서 얼음을 매번 푸는 것보다 허리에 무리가 덜 가는 아이스빈이 설치되어있는지 등.&lt;br /&gt;머신이나 식재료들 배치, 수납도 ‘보기 좋음’과 ‘일하기 좋음’의 사이에 잘 조율된 바의 UX를 보면 마음이 편안-해진다. &lt;br /&gt;기능이나 사람은 무시된 채 멋짐만 추구한 공간, 특히 바BAR를 볼 때면 “에이 너무하네, 일하기 힘들겠다. 힘들면 손님 눈에 다 보이는데”하는 생각으로 이어지고. &lt;br /&gt;&lt;/p&gt;
 
-&lt;p&gt;실제 브랜드들이 어떤식으로 취사선택하는지 사례위주로 소개한다.(TBD)&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;img src=&quot;../img/posts/2020-03-22-cafe_bx1/attachment2.jpg&quot; alt=&quot;coffee_bar&quot; /&gt;&lt;/strong&gt;&lt;/p&gt;
 
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;퀜치의 커피자체에 집중된 메뉴판&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;새검정의 오닉스 수입&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;어니언 한옥 공간과 브레드05협업 사례&lt;/li&gt;
-  &lt;li&gt;카페 진정성의 밀크티와 퍼스트 펭귄&lt;/li&gt;
-  &lt;li&gt;마메야 원두선택과 가이드&lt;/li&gt;
-  &lt;li&gt;블루보틀의 커뮤니티&lt;/li&gt;
-  &lt;li&gt;커피슈프림의 슈프림밋츠와 브랜드북 굿즈&lt;/li&gt;
-&lt;/ul&gt;
+&lt;p&gt;따져보면 다 비용이고 중요도와 우선순위의 견해차겠지만 적어도 일하기 좋은 환경에서 더 맛있는 커피 한잔이 나온다고 믿는다.&lt;/p&gt;
 
-&lt;p&gt;그 외의 콘텐츠,&lt;/p&gt;
+&lt;p&gt;그다음이 인테리어 측면에서 &lt;br /&gt;공간 구획, 가구나 조도, 여백과 텍스쳐, &lt;br /&gt;콘센트 그리고 좌석 수, 화장실과 향 같은 것 들을 보게 된다.&lt;/p&gt;
 
-&lt;p&gt;내가 덕질하는 커피브랜드인 뉴질랜드의 커피슈프림Coffee supreme. &lt;br /&gt;We eat coffee for breakfast. 이 브랜드의 슬로건을 몸소 실천하곤 한다.&lt;/p&gt;
+&lt;p&gt;좋다 나쁘다는 없고 ‘답게’ 한 것.&lt;br /&gt;일관성 있는 컨셉과 날 선 디테일이 보일 때 멋진 것 같다.&lt;/p&gt;
 
-&lt;p&gt;원두는 다양한 경로로 접해서 종종 마셨었고, 대표와 팀을 만나보기도 했지만(글로벌리 느슨하게 연결된 커피커뮤니티의 축복) 재밌게도 매장은 한번도 가본적이 없다 -현재 대부분의 매장 비즈니스는 접었지만…-. 결국 내가 소비한 브랜드이미지는 온통 온라인에서의 콘텐츠들인 것이다. 굿즈, 각종 사진과 이벤트 현장 모습들 클리핑, 연재되는 저널과 sns등. 93년생으로 제법 업력이 된 이 브랜드는 여전히 날 서있고 뾰족하며 쉽게 친근함이 느낀다.&lt;/p&gt;
+&lt;p&gt;친해지고 싶은 사람의 취향을 하나하나 파악하듯이&lt;br /&gt;‘나라서 발견했다’라는 즐거움을 주는 디테일이 있을 때 무릎을 탁 치게 되는 것이지.&lt;/p&gt;
 
-&lt;p&gt;오프라인 브랜드 경험이란 건 뭘까?&lt;/p&gt;
-
-&lt;p&gt;공급자이자 크리에이터가 어떤 가치를 추구하고 어디에 가장 신경(=돈)을 많이 썼는에 따라 커피맛에 대한 기대치가 높아지기도 낮아지기도 한다. 어떤 카페를 선택해도 똑같이 커피맛은 좋았으면 하고 기대하게 된다. 좋은 커피로 하루를 시작하는 것만큼 포근하고 보장된 행복이 없다.&lt;/p&gt;
-
-&lt;p&gt;공급자적 관점으로 카페에 관심을 두면 커피에 실패할 확률은 줄어든다. &lt;br /&gt;가까이에 친한 바리스타 하나쯤 있으면 좋을 이유다.&lt;/p&gt;</content><author><name>서솔</name></author><category term="카페" /><category term="리테일" /><category term="공간" /><category term="인테리어" /><summary type="html">너는 카페 가면 뭐 봐?</summary></entry></feed>
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 22 Mar 2020 17:30:00 +0900</pubDate>
+        <link>http://localhost:4000//cafe-bx-1/</link>
+        <guid isPermaLink="true">http://localhost:4000//cafe-bx-1/</guid>
+        
+        <category>카페</category>
+        
+        <category>리테일</category>
+        
+        <category>공간</category>
+        
+        <category>인테리어</category>
+        
+        
+        <category>retail-bx</category>
+        
+      </item>
+    
+  </channel>
+</rss>
