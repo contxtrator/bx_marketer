@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://contxtrator.com/sitemap.xml
