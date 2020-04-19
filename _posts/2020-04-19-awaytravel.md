@@ -15,7 +15,7 @@ tags:
 description: '여행으로부터 더 많은 것을 얻게 해줄게! 합리적인 가격의 여행용 캐리어로 마켓을 흔들고 이제는 시티 가이드까지 자청하는 브랜드.'
 ---
 
-## AWAY, 캐리어 beyond 여행
+## AWAY, 캐리어 beyond 캐리어
 
 **DNVD** Digitally-Native Vertical Brand (a.k.a V commerce) 사례 디깅하기.
 
