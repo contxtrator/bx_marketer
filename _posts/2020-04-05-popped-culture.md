@@ -15,111 +15,96 @@ tags:
 description: '커피를 가지고 전개하는 콘텐츠 마케팅이 얼마나 다양한지 살펴보는 케이스 스터디. 뉴질랜드 커피 슈프림의 커피로 여는 아침 시리즈.'
 ---
 
-## Seoul
+## Popped Culture (from. Coffee supreme)
 
 뉴질랜드의 스페셜티 커피브랜드인 **커피슈프림**에서 15년 9월에 처음 연 이벤트인 **Popped Culture**.
 
-
+<img src="https://mediacdn.grabone.co.nz/asset/fsTtAavE8l/box=615x0" alt="popped_culture" style="zoom:50%;"/>
 
 Popped Culture는 셰프, 베이커, 독특한 로케이션, 아름다운 가구와 커피를 한자리에 모아낸다. 이른 아침 커피와 토스트를 중심으로 '언제 커피 한 잔 하자'는 인사말을 현실로 끌어낸다. 매번 그 구성이 변경되며 그에 따라 다른 모습이 연출된다.
 
 <img src="https://331mrnu3ylm2k3db3s1xd1hg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Sprudge-PoppedCultureXCoffeeSupreme-AbigailGranbery-Popped_Culture_2_Seating_Area_Simon_Moore_03.jpg">
 
-매거진 B 편집장,에디터 토크
+이 이벤트를 처음 봤던 15년 가을.<br>커피, 게더링, 커뮤니티, 브랜드 같은 키워드를 관통하는 무언가를 느꼈던 것 같다. ''아 나도 이런걸 하고싶다!'라는 마음을 불러일으켰던 이벤트. 몇년 지난 지금봐도 전혀 어색하거나 촌스럽지 않고 회차를 거듭하며 더 잘 다듬어진 느낌이다. 브랜드가 건네는 이야기는 이렇게 본 비즈니스와는 동떨어져 보일 수도 있는 활동들을 잘 버무려내고 꾸준히 들려주어야 사람들에게 가닿을 수 있고 브랜드 확장성도 가져갈 수 있는 것 같다. 커피 콘텐츠, 브랜드 마케팅을 주로 다루며 회사에서 더 큰 행사를 진행하기도 했는데 격세지감을 느끼며(...) 다시 그 마음을 꺼내보고 싶어서 스크랩 해본다.
 
-<u>**지금 서울의 배경**</u>
+**![popped_culture](../img/posts/2020-04-05-popped-culture/10.png)**
 
-Fan에서 Creater로 변모하는 흐름이다.
-과거 해외 문화에 대한 부러움, 동경으로부터 탐구하고 베끼고 하는 Follower의 태도와 마음이 계속되다보니 성숙하고 내재화 되다가 분출되는 시기가 지금이 아닌가 싶다. 예를들어, 지금 Hot한 90년대 장르도 그 당시 가장 앞서고 싶었던 사람들이 택한 장르인 패션이 아닌가. 그 당시 패션유학을 갔던, 한섬이나 백화점 바이어로 활동하고 있는 사람들이 지금의 유행을 만들어내고 있는 시기인 것 아닐까. 해외에서 흡수 한 것을 본인 것으로 폭발시키는 시기.
+ **<u>Coffee Supreme(커피) X Tom Hishon of Orphan’s Kitchen(토핑) X Carter Were of Were Bros(빵)</u>**<br>
 
+세 브랜드의 콜라보로, 각자 브랜드가 커피/빵/요리를 하나씩 도맡아 하나의 트레이를 완성해낸다.
 
+Coffee Supreme은 조금 다른 하루의 시작을 만들 수 있도록, 토스트와 커피를 통한 '모닝 리추얼'을 주제로 한 브런치 이벤트 시리즈를 열었다. 본인들의 슬로건인 'We eat coffee for breakfast'와도 잘 어울리는 장면이다. 
 
-<u>**MUSIC 음악**</u>
+***Coffee Supreme is hosting a series of breakfast events focused around the morning ritual of toast and coffee.***
 
-호텔씬이 아직 컨셉에만 치중하는 편이라면, 음악씬은 로컬리티가 가장 높은 씬 같다.
-'내가 하고싶어서, 내가 놀고싶어서'가 가장 많이 보여지지 않았나 싶다. (신도시 같은 곳)
-음악을 소비하는 방식. 이런 문화가 성장할 수 있던 토양은 힙합이라는 생각.
+<img src="https://331mrnu3ylm2k3db3s1xd1hg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Sprudge-PoppedCultureXCoffeeSupreme-AbigailGranbery-Popped_Culture_2_Cafeteria_Tray_Coffee_Supreme_01.jpg">
 
-6-70년대의 ROCK, 90년대의 NBA농구, 힙합, 흑인음악, 레코드바 등.  (다듀같은 팀)
-그 시절 이국문화보고 성장한 KIDS(힙합KIDS)와 쇼미더머니.
+- 인당 16불, 티켓사이트(https://www.iticket.co.nz/events/2015/sep/popped-culture)에서 티켓을 판매. (현장판매여부는 모르겠음). 오클랜드의 한 아파트 단지 내에서 열렸다.(Shky Apartments, 44 Khyber Pass Rd, Eden Terrace.)
+- SNS(www.instagram.com/supremepoppedculture/)에 준비과정을 계속 공유했다. 여기저기서 모은 과정 사진들을 글로 엮어냈다.게다가 3일짜리 이벤트에 붙인 훌륭한 네이밍과 BI, 이벤트의 홈페이지까지 별도 개설(지금은 사라졌음)했다. 기획단계부터 2,3회를 염두했을 것 같다.
+- 공식 미디어 스폰서도 있다. 로컬 매거진인 VIVA(https://www.viva.co.nz/article/food-drink/eating-out/why-you-should-come-to-popped-culture/).
+- 목/금/토 아침 일찍 모여서 브런치를 한다. 'We eat coffee for breakfast'.
+  - 목/금: 7:30am - 9:30am, 토: 한시간 늦게 8:30am - 10:30am까지 3일간
 
-락ROCK은 비관적인 정서인 반면에(그래서 생존하지 못한게아닐까ㅎㅎ)
-힙합은 희망을 이야기한다는 점이 두 장르의 다른 점인 것 같다.
+**![popped_culture](../img/posts/2020-04-05-popped-culture/1.png)**
 
+완공 전단계인 아파트의 고층을 빌렸다. 오클랜드의 스카이라인이 그대로 보인다.
 
+**![popped_culture](../img/posts/2020-04-05-popped-culture/2.png)**
 
-<u>**DINING 다이닝**</u>
+트레이 페이퍼도 제작. 디자인물 제작과정을 꾸준히 SNS로 중계한다.
 
-미쉐린 등장 이후 대중의 소비방식이 달라졌나? 대중보다 쉐프, 업장을 기획하는 사람들에게 동기부여하는 역할,자극이 되지 않았나 싶다. 맛/음악/시각 등 총체적인 것의 합을 보여주려 하지 않나.
+**![popped_culture](../img/posts/2020-04-05-popped-culture/3.png)**
 
-예를들어 '효도치킨'같은 파인다이닝+서민음식 간의 교차점을 찾는 것은 건강한 시도가 아닐까?
-건강한 담론, 서울다운 시도, 업그레이드의 가능성을 보여주는 것. 다이닝씬에서 서울다운 것.서울다운 시도라는 건 하이브리드적인-혼재된 것이 아닐까한다. 브랜딩이란, 결국 내가 나를 잘 알고 나를 잘 프리젠테이팅 하는 것이니까.
+동이 트는 행사장. 아침을 여는 행사 취지가 그대로 사진 한장에 따악- 담겼다.
 
+**![popped_culture](../img/posts/2020-04-05-popped-culture/4.png)**
 
+아침 볕이 예쁘게 든다.
 
-**COFFEE 커피**
+**![popped_culture](../img/posts/2020-04-05-popped-culture/5.png)**
 
-2년 전에도 이미 성숙했던 씬이고, 현재는 세분화되어가는 중인 것 같다.
-어딜가도 반경 안에서 좋은 커피, 카페를 찾을 수 있게 되었다.
+아직 완공되기 전이라 차가운 실내지만 커피와 빵, 사람들로 온기를 채워나간다. 
 
-서울의 커피씬은 양적으로 질적으로 동시에 성장했다. 시간을 쪼개쓰는 문화, 바쁜중에 오아시스를 찾는 노마드적인 습성. 밥먹고 카페가고 전시보고 카페가는 일상. 엉덩이가 가벼운 사람들에게 가장 잘맞는 상공간이다.
-나 오늘 이만큼 뭐 했다를 보여주기 가장 좋은 카페사진들. 동선=취향을 가장 손쉽게 보여줄 수 있는 것 아닐까?
+**![popped_culture](../img/posts/2020-04-05-popped-culture/6.png)**
 
-**타르틴, 블루보틀같은 빅브랜드의 진출에 대해.** 지금 형성된 서울의 커피씬에 블루보틀의 등장은 영향이 없을 것 같다.
-마블영화 챙겨보듯 브랜드소비로만 가지 커피문화에는 영향을 미치진 못하지 않을까?
-로컬브랜드 영향이 더 클것. 더 확장해 나갈 수 있는 가능성, 작게 가고있는 유연함은 그들이 따라가기 어려울 것 같다.
-도쿄, 뉴욕 등에 있는 잘 차려놓은 편집샵에 로컬들보다 오히려 중국 관광객들이 더 많은 것 처럼. 이벤트적 소비로 예상해본다.
+이른 아침, 7시부터 많은 사람들이 입장하는 중.
 
+**![popped_culture](../img/posts/2020-04-05-popped-culture/7.png)**
 
+커피슈프림의 모듈 바. 외부행사에 자주 등장해서 덕후인 나에게는 친숙한 모습^.^
 
-**FASHION 패션** 
+**![popped_culture](../img/posts/2020-04-05-popped-culture/8.png)**
 
-패션이라는 비지니스 장르.엘리티즘의 붕괴,탈피.
-인스타그램 중심의 SNS문화(이는 일본의 도제문화와 상반된다)가 패션씬에 영향을 미치면서 서울이라는 변방도시에 힘을 실어준 것 같다. 즉각 피드백을 수용하고 대응하는 IT강국의 면모가 잘 맞아떨어지지 않았나 싶다.
-젠틀몬스터나 아더에러같은 브랜드가 떠오른다.
+**![popped_culture](../img/posts/2020-04-05-popped-culture/9.png)**
 
-
-
-**Q. Lifestyle Boundary의 정의?**
-
-서점/가구/공간/소품/커피 등을 편집,큐레이션 하는 능력. 조화를 보여줄 수 있는 능력이라 생각한다.
-
-어떤 필터링을 거쳐,
-어떤 방식으로 조합해,
-어떤 관점으로 보여줄 수 있는지.
-
-라이프스타일 이라고 하면 Living Lifestyle이 가장 흔히 떠오르고 쓰이는데, 단편적 분류가 우려되어 피하고자 했다. 매거진에 다룬 모든 6개 씬들이 '라이프스타일화' 되어가는 시점이다.
+트레이에 칸을 구획 해 준비된 메뉴들을 서브한다. 커피와 토스트.
 
 
 
-**Q.라이프스타일 수준, 고민의 단계가 달라지는 척도는? 2년전 취재했을 때와 다르거나 진화한 점?**
-
-라이프스타일이 발전할 수 있는 척도. (편파적 생각일 수 있지만)그 척도는 잡지가 아닐까. 혹은 미디어,목소리,의견을 내는 것.
-매거진을 본다는 것은 자기만의 관점을 갖고싶다로 해석될 수 있을 것 같다.
-종이책이 아니더라도 인스타그램으로부터의 다른,자기만의 voice를 가지는것도 비슷한 것 같다. 독립잡지가 잘 구비된 도시는 볼 것 도많고 성장하고 있는 도시가 아닐까 싶다.
-
-예를들어 포틀랜드. 크게 대단한 것 없어보일 수 있지만 'Human Level' 내가 당장 여기 살아도 턱이없겠다 라는 생각이 드는 도시. 아웃사이더를 구분짓는 경계도 없고, 나와 별거 달라보이지 않는 삶이 비지니스로 잘 구현되어 있는 곳.
-
-반면 교토는 미학적 아름다움, 어떻게 더 정제해서 보여줄까를 고민하는 곳이다. 
-
-고민하는 일상의 영역이 완전히 다른 두 도시이다.
+**![popped_culture](../img/posts/2020-04-05-popped-culture/15.png)**
 
 
 
-**Q. 190개의 브랜드를 선택할 때 경중이 있었나?(루트B 포함)**
-**첫번째 에디션**에서는, 산업적으로 토양을 일군 -씬을 일으킨- 브랜드(업장)여야한다고 생각하고 다뤘다. Builders, Developers -> 천편일률이라 생각될 수 있었다.
+**![popped_culture](../img/posts/2020-04-05-popped-culture/11.png)**
 
-**두번째 개정판**에서는 그냥 핫한, 지금의 OO를 다루었다. 그래도 되나?하면서 이를 경계하다가 현재의 모습을 놓치는게 아닌가 싶었다. 빌더스에 힘입어 새로운 흐름, New wave을 만들고 있는 업장들이다.
-패션이 가장 왕성하게 변하는 시기였다고 회고한다.
+<img src="https://331mrnu3ylm2k3db3s1xd1hg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Sprudge-PoppedCultureXCoffeeSupreme-AbigailGranbery-Popped_Culture_2_Light_Cube_Simon_Moore_02.jpg">
 
-**Q.브랜딩 차원에서 보는 호텔 F&B**
-신라호텔 / 조선호텔 vs 레스케이프 호텔 / 라이즈 호텔
-붙박이 가구 vs 이동성 가구
-한번 확보한 안정성 vs 언제바뀌어도 무방한 것.(트렌드와 도시변화에 따라서)
+popped culture 1회, 2회 각각의 사인. 1층 엘레베이터에 표시해 둔 사인도 예쁘고 조명 큐브도 좋고.
 
 
 
-. . . 
+**![popped_culture](../img/posts/2020-04-05-popped-culture/12.png)**
 
-모든 브랜드의 이야기는 자연스러운 이야기로부터 이루어져야 한다. **<모노클> 편집장 타일러 브륄레** 
+사람들은 즐겁다.
 
+<img src="https://331mrnu3ylm2k3db3s1xd1hg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Sprudge-PoppedCultureXCoffeeSupreme-AbigailGranbery-Popped_Culture_2_Savoury_Toast_Simon_Moore_06.jpg">
+
+**![popped_culture](../img/posts/2020-04-05-popped-culture/13.png)**
+
+토스트가 올려진 트레이를 받아들고 옆으로 이동해 커피를 마저 받아 트레이를 꽉 채운다.
+
+<img src="https://331mrnu3ylm2k3db3s1xd1hg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Sprudge-PoppedCultureXCoffeeSupreme-AbigailGranbery-Popped_Culture_2_Seating_Area_Simon_Moore_04.jpg">
+
+호스피털리티 씬에 새로 등장한 선수들을 축하하며 무대를 선사하는 것. Popped Culture는 단순한 부분의 합보다 더 큰 제품을 만드는 친구들 간의 협업이다. <br>추구하는 가치를 꾸준히 이야기하는 것의 힘을 느낀다. 
+
+(사진출처:https://sprudge.com/popped-culture-coffee-supreme-90191.html)
