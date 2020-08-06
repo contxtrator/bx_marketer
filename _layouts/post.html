@@ -58,4 +58,19 @@ layout: default
   <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TF7STK4"
   height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <!-- End Google Tag Manager (noscript) -->
-  
+
+
+
+
+  <script type="text/javascript">
+    $('#form').submit(function() {
+      dataLayer.push({
+      'event' : 'ViewContent',
+      'content_name':'{{ page.title }}',
+      'content_ids':'{{ content_id.content }}'
+      });
+      document.getElementById('form').style.display = 'none'; // hide form
+      document.getElementById('thankyou_message').style.display = 'block';
+      return false;
+    });
+  </script>

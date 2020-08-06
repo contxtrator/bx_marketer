@@ -13,6 +13,8 @@ tags:
   - 커피
   - 문화
 description: '커피를 가지고 전개하는 콘텐츠 마케팅이 얼마나 다양한지 살펴보는 케이스 스터디. 뉴질랜드 커피 슈프림의 커피로 여는 아침 시리즈.'
+content_id: coffee-contents-popped-culture
+
 ---
 
 ## Popped Culture (from. Coffee supreme)
@@ -33,7 +35,7 @@ Popped Culture는 셰프, 베이커, 독특한 로케이션, 아름다운 가구
 
 세 브랜드의 콜라보로, 각자 브랜드가 커피/빵/요리를 하나씩 도맡아 하나의 트레이를 완성해낸다.
 
-Coffee Supreme은 조금 다른 하루의 시작을 만들 수 있도록, 토스트와 커피를 통한 '모닝 리추얼'을 주제로 한 브런치 이벤트 시리즈를 열었다. 본인들의 슬로건인 'We eat coffee for breakfast'와도 잘 어울리는 장면이다. 
+Coffee Supreme은 조금 다른 하루의 시작을 만들 수 있도록, 토스트와 커피를 통한 '모닝 리추얼'을 주제로 한 브런치 이벤트 시리즈를 열었다. 본인들의 슬로건인 'We eat coffee for breakfast'와도 잘 어울리는 장면이다.
 
 ***Coffee Supreme is hosting a series of breakfast events focused around the morning ritual of toast and coffee.***
 
@@ -63,7 +65,7 @@ Coffee Supreme은 조금 다른 하루의 시작을 만들 수 있도록, 토스
 
 **![popped_culture](../img/posts/2020-04-05-popped-culture/5.png)**
 
-아직 완공되기 전이라 차가운 실내지만 커피와 빵, 사람들로 온기를 채워나간다. 
+아직 완공되기 전이라 차가운 실내지만 커피와 빵, 사람들로 온기를 채워나간다.
 
 **![popped_culture](../img/posts/2020-04-05-popped-culture/6.png)**
 
@@ -105,6 +107,6 @@ popped culture 1회, 2회 각각의 사인. 1층 엘레베이터에 표시해 �
 
 <img src="https://331mrnu3ylm2k3db3s1xd1hg-wpengine.netdna-ssl.com/wp-content/uploads/2015/11/Sprudge-PoppedCultureXCoffeeSupreme-AbigailGranbery-Popped_Culture_2_Seating_Area_Simon_Moore_04.jpg">
 
-호스피털리티 씬에 새로 등장한 선수들을 축하하며 무대를 선사하는 것. Popped Culture는 단순한 부분의 합보다 더 큰 제품을 만드는 친구들 간의 협업이다. <br>추구하는 가치를 꾸준히 이야기하는 것의 힘을 느낀다. 
+호스피털리티 씬에 새로 등장한 선수들을 축하하며 무대를 선사하는 것. Popped Culture는 단순한 부분의 합보다 더 큰 제품을 만드는 친구들 간의 협업이다. <br>추구하는 가치를 꾸준히 이야기하는 것의 힘을 느낀다.
 
 (사진출처:https://sprudge.com/popped-culture-coffee-supreme-90191.html)
