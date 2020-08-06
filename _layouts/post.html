@@ -54,15 +54,8 @@ layout: default
 <script type="text/javascript" src="//downloads.mailchimp.com/js/signup-forms/popup/unique-methods/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">window.dojoRequire(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us18.list-manage.com","uuid":"9bc2c5156b7dea6f44515fa92","lid":"e75a934631","uniqueMethods":true}) })</script>
   {% include disqus.html %}
 
-<!--GA_read article_ event count-->
-<script>
-  var viewArticle	= '{{page.title}}';
-    gtag('event', '보기', {
-    'event_category': '글 보기',
-    'event_label': viewArticle});
-</script>
-
-<!--Facebook_ pixel_ ViewContent-->
-<script>
-  fbq('track', 'ViewContent',{content_name:'{{ page.title }}'});
-</script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-TF7STK4"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+  
