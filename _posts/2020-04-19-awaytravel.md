@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /awaytravel/
+permalink: /post_awaytravel/
 title: '[DNVB]뉴욕에서 온 여행용 캐리어 AWAY'
 date: 2020-4-19 17:30:00 +09:00
 feature: '/img/posts/2020-04-19-awaytravel/away1.jpg'

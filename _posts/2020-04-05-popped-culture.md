@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /coffee-contents-popped-culture/
+permalink: /post_coffee-contents-popped-culture/
 title: '커피콘텐츠 케이스 스터디'
 date: 2020-4-5 17:30:00 +09:00
 feature: '/img/posts/2020-04-05-popped-culture/feature_popped_culture.jpg'

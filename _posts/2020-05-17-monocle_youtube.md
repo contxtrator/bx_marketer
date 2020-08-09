@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /monocle_youtube/
+permalink: /post_monocle_youtube/
 title: '모노클 필름즈'
 date: 2020-5-31 17:30:00 +09:00
 feature: '/img/posts/2020-05-31-monocle_youtube/monocle_youtube_main.jpg'
