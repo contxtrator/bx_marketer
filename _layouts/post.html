@@ -55,10 +55,18 @@ layout: default
   {% include disqus.html %}
 
 
-  <script type="text/javascript">
-      dataLayer.push({
-      'event' : 'ViewContent',
-      'content_name':'{{ page.title }}',
-      'content_ids':'{{ page.content_id }}'
-      });
-  </script>
+<script type="text/javascript">
+    dataLayer.push({
+    'event' : 'ViewContent',
+    'content_name':'{{ page.title }}',
+    'content_ids':'{{ page.content_id }}'
+    });
+</script>
+
+
+<script>
+  var postTitle	= '{{page.title}}';
+    gtag('event', '스크롤75이상', {
+    'event_category': '글 스크롤 정도',
+    'event_label': postTitle});
+</script>
